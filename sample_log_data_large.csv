@@ -1,0 +1,27 @@
+timestamp,log_level,message
+2025-07-08 10:00:00,INFO,System initialized
+2025-07-08 10:01:00,INFO,Connection established
+2025-07-08 10:02:00,WARN,CPU usage at 85%
+2025-07-08 10:03:00,ERROR,Database connection failed
+2025-07-08 10:04:00,INFO,Retrying connection
+2025-07-08 10:05:00,INFO,Connection successful
+2025-07-08 10:06:00,INFO,Sync started
+2025-07-08 10:07:00,WARN,Memory usage high
+2025-07-08 10:08:00,ERROR,Write to disk failed
+2025-07-08 10:09:00,INFO,Recovery process started
+2025-07-08 10:10:00,ERROR,Recovery failed
+2025-07-08 10:11:00,INFO,Admin notified
+2025-07-08 10:12:00,WARN,Network latency detected
+2025-07-08 10:13:00,ERROR,Timeout while contacting service
+2025-07-08 10:14:00,INFO,Service restarted
+2025-07-08 10:15:00,INFO,All systems operational
+2025-07-08 10:16:00,INFO,Heartbeat OK
+2025-07-08 10:17:00,WARN,Disk usage 90%
+2025-07-08 10:18:00,ERROR,File system corruption detected
+2025-07-08 10:19:00,INFO,Maintenance mode activated
+2025-07-08 10:20:00,INFO,System check complete
+2025-07-08 10:21:00,ERROR,Service dependency missing
+2025-07-08 10:22:00,INFO,Dependency installed
+2025-07-08 10:23:00,WARN,Unusual login pattern
+2025-07-08 10:24:00,INFO,Security scan complete
+2025-07-08 10:25:00,INFO,System idle
