@@ -1,13 +1,12 @@
 # 🧠 Intelligent Log Analysis & Incident Prediction
 
-This is a Python-based AI-powered project that analyzes application and infrastructure logs to detect anomalies and predict potential incidents **before they impact users**.
+This is a Python-based project that analyzes application and infrastructure logs to detect anomalies and predict potential incidents **before they impact users**.
 
 ---
 
 ## 📌 Features
 
-✅ Upload logs in `.csv`, `.json`, or `.log` format  
-✅ AI-powered anomaly detection using Isolation Forest  
+✅ Upload logs in `.csv`, `.json`, or `.log` format   
 ✅ Fatigue-aware alerting system (prevents redundant alerts)  
 ✅ Real-time alert simulation using batch learning  
 ✅ Incident timeline visualization using Matplotlib  
